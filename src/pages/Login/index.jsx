@@ -70,7 +70,7 @@ const Login = () => {
 				<form onSubmit={handleSubmit} className={styles.form_container}>
 					<div className={styles.input_container}>
 						<TextField
-							label="Enter your email"
+							label="Enter your email (tieuhoangdat@gmail.com)"
 							placeholder="Enter your email"
 							name="email"
 							handleInputState={handleInputState}
@@ -83,7 +83,7 @@ const Login = () => {
 					</div>
 					<div className={styles.input_container}>
 						<TextField
-							label="Password"
+							label="Password (Tct@12345)"
 							placeholder="Password"
 							name="password"
 							handleInputState={handleInputState}
