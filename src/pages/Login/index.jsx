@@ -83,7 +83,7 @@ const Login = () => {
 					</div>
 					<div className={styles.input_container}>
 						<TextField
-							label="Password (Tct@12345)"
+							label="Password (Tct@54321)"
 							placeholder="Password"
 							name="password"
 							handleInputState={handleInputState}
